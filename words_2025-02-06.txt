@@ -1,2 +1,3 @@
 Studied word: test
 Studied word: test
+Studied word: d?
